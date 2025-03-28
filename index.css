@@ -13,7 +13,6 @@ h1 {
   background-repeat: no-repeat;
   width: 100%;
   padding: 20px;
-  display: block;
   position: relative;
   margin-bottom: 50px;
 }
@@ -31,6 +30,47 @@ body {
     font-weight: bold;
     color: white;
     margin-bottom: 25px;
+}
+
+.frames {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.paint {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 25px;
+
+}
+
+img {
+  margin-left: 10px;
+  margin-bottom: 25px;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 25px;
+  margin-left: 10px;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 25px;
+  margin-left: 10px;
 }
 
 span {
